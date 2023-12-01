@@ -1,2 +1,2 @@
-# ExpolaratoryDataAnalysis-EDA-
-Its about the EDA analysis using Pandas 
+# ExpolaratoryDataAnalysis-EDA
+EDA analysis using Python 
